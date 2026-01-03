@@ -1,5 +1,5 @@
 //bhaisahab matter ho jayega.
-#include <stdio.h>
+#include <iostream>
 using namespace std;
 int main()
 {
